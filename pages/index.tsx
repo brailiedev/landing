@@ -9,8 +9,10 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Brailie | Growth Marketing Agency</title>
-      </Head>
+    <title>Brailie | Growth Marketing Agency</title>
+    <meta name="description" content="Brailie: Pioneering Cardano-focused marketing agency. Expertise in blockchain growth strategies, SEO, social media, and exclusive press release services for Cardano startups. Propel your venture to the forefront of the blockchain industry with Brailie." />
+    <meta name="keywords" content="Cardano marketing, blockchain marketing agency, Cardano growth strategies, blockchain SEO, cryptocurrency advertising, Cardano startup support, blockchain digital marketing, crypto press release, Cardano business growth, blockchain social media management" />
+</Head>
       <header className={styles.header}>
         <nav className={styles.nav}>
             <div className={styles.logo}> <span className={styles.bracket} >&#91;</span> brailie <span className={styles.bracket} >&#93;</span> </div>
