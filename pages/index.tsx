@@ -9,20 +9,20 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Brailie</title>
+        <title>Brailie | Growth Marketing Agency</title>
       </Head>
       <header className={styles.header}>
         <nav className={styles.nav}>
             <div className={styles.logo}> <span className={styles.bracket} >&#91;</span> brailie <span className={styles.bracket} >&#93;</span> </div>
-            <a href="">GET IN TOUCH</a>
+            <a href="mailto:brailiedev@gmail.com">GET IN TOUCH</a>
         </nav>
         <main className={styles.main}>
           <div className='hero'>
             <h1 className={styles.title}>
-            Create, Launch Your NFT Projects With Ease.
+            Elevate Your Cardano Venture with Brailie.
             </h1>
             <p className={styles.description}>
-            Get the best of both worlds with Brailie as we are skilled in Blockchain Development, Software Engineering, Graphic Design, and Strategic Marketing that would ensure your NFT project is in great hands.
+            Unlock the full potential of blockchain marketing and growth strategies tailored for Cardano projects.
             </p>
           </div>
           
@@ -34,11 +34,11 @@ const Home: NextPage = () => {
       <div className={styles.circle2}></div>
       <footer className={styles.footer}>
         <h2>Working On A project? </h2>
-        <a href="mailto:idea@brailie.dev">idea@brailie.dev</a>
+        <a href="mailto:brailiedev@gmail.com">brailiedev@gmail.com</a>
         <div className={styles.copy}>
-          <small>&copy; 2022 brailie. All Right Reserved</small>
+          <small>&copy; 2024 brailie. All Right Reserved</small>
           <div><hr className={styles.line}/></div>
-          <small>Follow us on <a href="https://twitter.com"><FontAwesomeIcon icon={faTwitter} /></a></small>
+          <small>Follow us on <a href="https://twitter.com/Brailiedev"><FontAwesomeIcon icon={faTwitter} /></a></small>
         </div>
 
       </footer>
