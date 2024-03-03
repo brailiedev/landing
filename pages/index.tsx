@@ -10,8 +10,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
     <title>Brailie | Growth Marketing Agency</title>
-    <meta name="description" content="Brailie: Pioneering Cardano-focused marketing agency. Expertise in blockchain growth strategies, SEO, social media, and exclusive press release services for Cardano startups. Propel your venture to the forefront of the blockchain industry with Brailie." />
-    <meta name="keywords" content="Cardano marketing, blockchain marketing agency, Cardano growth strategies, blockchain SEO, cryptocurrency advertising, Cardano startup support, blockchain digital marketing, crypto press release, Cardano business growth, blockchain social media management" />
+    <meta name="description" content="Brailie: Crypto / web3-focused marketing agency. Expertise in blockchain growth strategies, SEO, social media, and exclusive press release services for web3 startups. Propel your venture to the forefront of the blockchain industry with Brailie." />
+    <meta name="keywords" content="web3 marketing, blockchain marketing agency, web3 growth strategies, blockchain SEO, cryptocurrency advertising, web3 startup support, blockchain digital marketing, crypto press release, web3 business growth, blockchain social media management" />
 </Head>
       <header className={styles.header}>
         <nav className={styles.nav}>
@@ -21,10 +21,10 @@ const Home: NextPage = () => {
         <main className={styles.main}>
           <div className='hero'>
             <h1 className={styles.title}>
-            Elevate Your Cardano Venture with Brailie.
+            Elevate Your Web3 Venture with Brailie.
             </h1>
             <p className={styles.description}>
-            Unlock the full potential of blockchain marketing and growth strategies tailored for Cardano projects.
+            Unlock the full potential of blockchain marketing and growth strategies tailored for web3 projects.
             </p>
           </div>
           
