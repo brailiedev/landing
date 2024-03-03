@@ -35,7 +35,7 @@ const Home: NextPage = () => {
       <div className={styles.circle}></div>
       <div className={styles.circle2}></div>
       <footer className={styles.footer}>
-        <h2>Working On A project? </h2>
+        <h2>Let's Make Your Web3 Project Go Viral!</h2>
         <a href="mailto:brailiedev@gmail.com">brailiedev@gmail.com</a>
         <div className={styles.copy}>
           <small>&copy; 2024 brailie. All Right Reserved</small>
